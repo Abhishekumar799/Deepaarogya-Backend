@@ -51,7 +51,7 @@ def login():
 
     # print response codes
 
-    data = {'status':'200', 'message':'Message sent successfully'}
+    data = {'status':'200', 'message':'Message sent successfully.'}
     return data
 
 def check(email):
